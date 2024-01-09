@@ -45,7 +45,7 @@ int main()
     root->right->left = new Node(6);
     root->right->right = new Node(7);
 
-    // printTheTreeInorder(root);
+    printTheTreeInorder(root);
 
     return 0;
 };
