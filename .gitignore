@@ -1,0 +1,28 @@
+# Ignore C++ executable files
+*.out
+*.exe
+*.a
+*.o
+*.obj
+*.dll
+
+# Ignore Java class files
+*.class
+
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore C executable files
+*.out
+*.exe
+*.a
+*.o
+*.obj
+*.dll
+
+# Optional: Ignore build directories (common in C/C++/Java projects)
+build/
+bin/
+obj/
